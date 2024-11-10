@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mahinour!  
 
 # 💫 About Me:
-🔭 I’m currently studying Electronics & Communications Engineering at The American University in Cairo<br>🌱 I’m currently learning Python<br>👯 I’m looking to collaborate on fun side projects in Python or C++<br>💬 Ask me about my many unfinished projects!<br>⚡ Fun fact: I love cats!<br>👩‍💻 Interests: Programming, Robotics, Astronomy, and Biomedical Engineering<br>✨ Hobbies/Other Interests: Tennis & Basketball, Novel Writing, Metal Music, and everything Sci-Fi!
+🔭 I’m currently studying Electronics & Communications Engineering at The American University in Cairo<br>🌱 I’m currently learning Python<br>👯 I’m looking to collaborate on fun side projects in Python or C++<br>💬 Ask me about my many unfinished projects!<br>⚡ Fun fact: I love cats!<br>👩‍💻 Interests: Programming, Robotics, Astrophysics, and Biomedical Engineering<br>✨ Hobbies/Other Interests: Tennis & Basketball, Novel Writing, Metal Music, and everything Sci-Fi!
 
 
 ## 🌐 Socials:
