@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Mahinour, a Computer Engineering student at The American University in Cairo who got way too interested in robotics and embedded systems.
+Hi! I'm Mahinour, a Computer Engineering student at The American University in Cairo who got way too interested in automation and robotics.
 
 
 ## 🌐 Socials:
