@@ -1,5 +1,7 @@
 <img src="koi/koi.gif" width="256" alt="My koi" align="middle" />
+
 # 💫 About Me: 
+
 Hi! I'm Mahinour, a Computer Engineering student at The American University in Cairo who got way too interested in automation and robotics.
 
 
